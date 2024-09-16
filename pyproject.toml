@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "kursovaya888"
+version = "0.1.0"
+description = ""
+authors = ["Tatiyana Galitskaya <tatianagalitskaya3@gmail>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
